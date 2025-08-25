@@ -43,7 +43,7 @@ A simple and efficient ComfyUI custom node that replaces the default "Empty Late
 
 1. Download the `custom_ratio_node.py` file
 2. Place it in your ComfyUI custom nodes directory:
-
+```markdown
     ComfyUI/
     ├── custom_nodes/
     │   └── custom_ratio_node.py  ← Place the file here
