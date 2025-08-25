@@ -49,7 +49,7 @@ A simple and efficient ComfyUI custom node that replaces the default "Empty Late
     │   └── custom_ratio_node.py  ← Place the file here
     └── ...
 
-
+```
 🤝 Contributing
 Feel free to suggest additional resolutions or improvements by opening an issue or pull request.
 📝 License
