@@ -11,6 +11,12 @@ A simple and efficient ComfyUI custom node that replaces the default "Empty Late
 - **Batch Size Support**: Generate multiple latents at once
 - **Direct Replacement**: Drop-in replacement for Empty Latent Image node
 
+
+![Custom Ratio Node Interface](screenshot_CRL.png)
+
+
+
+
 ## 📋 Available Resolutions
 
 ### Square Ratios
